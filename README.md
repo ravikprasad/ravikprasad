@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravikprasad
 - 👀 I’m interested in Program & Project Manager, Customer Success, SQL Queries, Python Scripts, Data Science. 
 - 🌱 I’m currently learning every nook and corner of GitHub
-- 💞️ I’m looking to collaborate on Project Management
+- 💞️ I’m looking to collaborate on Technical Project Management, Program Management, Delivery Excellence, Lead support teams
 - 📫 How to reach me ravi.prasad@live.in
 
 <!---
