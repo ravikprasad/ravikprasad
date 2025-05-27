@@ -1,9 +1,23 @@
-- 👋 Hi, My name is Ravi (RUH-vee).
-- Here is my linkedIn https://www.linkedin.com/in/ravikaushalprasad/  
-- 👀 I’m passionate about in Program & Project Management, Customer Success, SQL Queries, Python Scripts, Data Science. I believe in strategic project management. Focus on delivering value and empowering our customers to achieve more. I actively contribute towards PMI and volunteer as a mentor, leader to the local chapter members (PSPMI). I’ve delivered many sessions on PM topics from DevOps, GitHub for PMs, Copilot for PMs to Project and program management. 
-- 🌱 I’m a believer of lifelong learning; currently exploring every nooks and corners of GitHub and GitHub Advance Security (GHAS).
-- 💞️ I’m looking to collaborate on Technical Project Management, Program Management, Delivery Excellence, Leading support teams to deliver best for our partners. 
-- 📫 Give me hollar at @ravikprasad
+### Hello! 👋  I'm Ravi Kaushal Prasad (RUH-vee).
+Seasoned techie PM with over two decades of experience at Microsoft and now at GitHub. 
+
+### 🕵️‍♂️ Who is Ravi? 
+An 👾 explorer by heart and 🌱 a believer of lifelong learning. Grew up in a small town with big dreams. 
+
+With over two decades, I've been focused on helping global customers achieve more through strategic execution and impactful delivery. I began my career in support engineering, moved into software development and consulting, led dev teams, and transitioned into project and program management.
+
+I thrive in complex, high-stakes initiatives with multiple stakeholders and tight timelines. I'm Techie by heart, I bring strengths in Program & Project Management, Customer Success, Application development & applicaiton support and Cybersecurity. 
+
+Outside of my day job, as an active PMI (Project Management Institute) volunteer leader, I mentor and lead local project management chapter (PSPMI) mentoring initiatives and regularly speak on topics like DevOps, GitHub for PMs, Pair PMing with GitHub Copilot and on modern PM practices.
+
+### 🤝 How to connect? 
+- Connect me via LinkedIn https://www.linkedin.com/in/ravikaushalprasad/
+- 📫 Give me hollar using GitHub handle @ravikprasad 
+
+### ⏭️ What's next? 
+- Continously exploring every nooks and corners of GitHub, GitHub Copilot, GitHub Advance Security (GHAS) code scanning and Agentic AI landscape.
+- I’m looking to collaborate on Technical Project Management, Program Management, Delivery Excellence, Leading support teams to deliver best for our customers.
+- Happy to mentor seasoned to young professionals in their project and program management journey.
 
 <!---
 ravikprasad/ravikprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
