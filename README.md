@@ -1,10 +1,10 @@
 ### Hello! 👋  I'm Ravi Kaushal Prasad (RUH-vee).
-Seasoned techie PM with over two decades of experience at Microsoft and now at GitHub. 
+Seasoned techie PM with over two decades of experience at Microsoft and now at GitHub.
 
 ### 🕵️‍♂️ Who is Ravi? 
 An 👾 explorer by heart and 🌱 a believer of lifelong learning. Grew up in a small town with big dreams. 
 
-With over two decades, I've been focused on helping global customers achieve more through strategic execution and impactful delivery. I began my career in support engineering, moved into software development and consulting, led dev teams, and transitioned into project and program management.
+With over two decades, I've been focused on helping global customers achieve more through strategic execution and impactful delivery. I began my career in support engineering, moved into software development and consulting, led large global dev teams, and transitioned into project and program management.
 
 I thrive in complex, high-stakes initiatives with multiple stakeholders and tight timelines. I'm Techie by heart, I bring strengths in Program & Project Management, Customer Success, Application development & applicaiton support and Cybersecurity. 
 
