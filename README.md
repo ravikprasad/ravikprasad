@@ -1,4 +1,4 @@
-### Hello! 👋  I'm Ravi Kaushal Prasad (RUH-vee).
+### Hello! 👋  I'm Ravi (RUH-vee).
 - Seasoned techie PM with a proven track record of empowering clients from ideation to solutions delivery and leading support services teams for the last 2 decades at Microsoft and now at GitHub. 
 
 ### 🕵️‍♂️ Who is Ravi? 
